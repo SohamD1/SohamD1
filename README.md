@@ -1,7 +1,5 @@
-# Hi, I'm Soham 🦦
+# Soham
 
-Engineering @ UWaterloo, engineer [@Finta](https://www.finta.com/).  
-I build product-minded AI systems, turning research into fast, usable software.
-
-📌 [Portfolio](https://davesoham.com) | [LinkedIn](https://linkedin.com/in/sohamdave1) | [X](https://x.com/_sohamdave)
+engineering @ uwaterloo, currently building [@Finta](https://www.finta.com/).  
+📌 [website](https://davesoham.com) | [linkedin](https://linkedin.com/in/sohamdave1) | [x](https://x.com/_sohamdave)
 
